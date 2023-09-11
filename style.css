@@ -32,5 +32,7 @@ clear:both;
         width 326px;
         float: left;
     }
-
+#imgContainer{
+    float: left;
+}
 
