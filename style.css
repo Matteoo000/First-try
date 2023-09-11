@@ -13,3 +13,13 @@ font-family:Arial, Helvetica, sans-serif;
 color: rgb(255, 0, 162);
 font-weight: bold;
 }
+
+#introContainer{
+width: 470px;
+float: left;
+
+}
+
+#intropicture{
+    float: left;
+}
