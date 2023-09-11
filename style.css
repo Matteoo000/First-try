@@ -36,3 +36,7 @@ clear:both;
     float: left;
 }
 
+#mainContainer{
+    width: 625px;
+    margin:0px; auto;
+}
