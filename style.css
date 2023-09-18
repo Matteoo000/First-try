@@ -4,6 +4,9 @@ margin: 0px;
 font-family:Arial, Helvetica, sans-serif;
 } 
 
+
+
+
 #introText{
     color: #0000FF;
 }
@@ -49,5 +52,5 @@ clear:both;
   
 }
 #navigation a:hover{
-    background-color: aqua;
+    background-color: blueviolet;
 }
