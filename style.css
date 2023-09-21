@@ -8,7 +8,12 @@ font-family:Arial, Helvetica, sans-serif;
 
 
 #introText{
-    color: #0000FF;
+    color: #000000;
+}
+ r
+#mainContainer{
+    width: 625px;
+    margin:0px auto;
 }
 
 .highlight{
@@ -38,19 +43,18 @@ clear:both;
     float: left;
 }
 
-#mainContainer{
-    width: 625px;
-    margin:0px auto;
-}
+
     
 #navaigation a {
   padding: 10px;
-  background-color: rgb(126, 127, 129);
+  background-color: rgb(157, 62, 62);
   color: white;
   text-decoration: none;
   border-radius: 4px;
+  float: left;
   
 }
 #navigation a:hover{
-    background-color: blueviolet;
+    background-color: rgb(136, 195, 188);
+
 }
