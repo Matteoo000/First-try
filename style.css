@@ -10,7 +10,7 @@ font-family:Arial, Helvetica, sans-serif;
 #introText{
     color: #000000;
 }
- r
+ 
 #mainContainer{
     width: 625px;
     margin:0px auto;
@@ -29,6 +29,7 @@ float: left;
 
 #intropicture{
     float: left;
+    margin: 5px 1000px 0px 0px;
 }
 
 .reset{
@@ -36,7 +37,7 @@ clear:both;
 }
 
     #hobbyContainer{
-        width: 326px;
+        width: 300px;
         float: left;
     }
 #imgContainer{
@@ -56,5 +57,10 @@ clear:both;
 }
 #navigation a:hover{
     background-color: rgb(136, 195, 188);
+
+}
+
+.hobbies{
+
 
 }
